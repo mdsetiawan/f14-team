@@ -13,13 +13,13 @@ hr {
 }		
 
 header{
-	text-align: center;
-	color: #232323;
-  	background-color: rgba(17, 16, 30, 1);
+	opacity: 0.9;
+  	height: 70px;
+  	width: 100%;
+  	background-color: whitesmoke;
   	position :fixed;
   	top: 0;
   	z-index: 10;
-}
 
 header .judul{
 	font-size: 17pt;
